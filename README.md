@@ -2,7 +2,7 @@
 
 # In this video, we finish our browser engine. 
 
-### Check out the Youtube Tutorial for this [Rust Tutorial]().  Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
+### Check out the Youtube Tutorial for this [Rust Tutorial](https://youtu.be/xNu6U5XCMMQ).  Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
 
 ### Check out our blog at [tensor-programming.com](http://tensor-programming.com/).
 
